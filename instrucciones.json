@@ -1,0 +1,6 @@
+[
+    {"id": "rule1","body": "Con los botones en la sección Tema, el usuario puede cambiar el color de fondo del programa (temporal)"},
+    {"id": "rule2","body": "Con el botón añadir productos, el usuario puede definir el nombre y precio de uno o varios productos, el cual se añade a su carrito."},
+    {"id": "rule3","body": "Con el botón confirmar compras, el usuario recopila todos los productos, aplica descuentos e impuestos y la página muestra el carrito como una lista."},
+    {"id": "rule4", "body": "Librería usada: Toastify, usada para notificar al usuario cada vez que se agrega un producto al carrito"}
+  ]
